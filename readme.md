@@ -2,7 +2,9 @@
 
 ## Main:
 1. test.py - train model
-2. date - folder with source images needed for training https://drive.google.com/drive/folders/1Xramw9-FoM_4_Zz585dvvAWclXBWNXwx?usp=sharing
+2. date - folder with source images needed for training 
+put in root folder
+https://drive.google.com/drive/folders/1Xramw9-FoM_4_Zz585dvvAWclXBWNXwx?usp=sharing
 
 ## Results: 
 Loss chart at 15 epochs:
